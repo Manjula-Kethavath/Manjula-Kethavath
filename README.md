@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Manjula 👋
 
-<!--
-**Manjula-Kethavath/Manjula-Kethavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Django & DRF | React | Next.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+* Full Stack Developer with experience in building scalable web applications
+* Strong in backend development using Django & REST APIs
+* Skilled in frontend development with React, Next.js, and Tailwind CSS
+* Experience in designing end-to-end systems with clean architecture
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+
+* React.js, Next.js
+* Tailwind CSS
+
+**Backend:**
+
+* Django, Django REST Framework
+
+**Database:**
+
+* PostgreSQL
+
+**Tools & Services:**
+
+* Supabase, Celery, Redis
+* Git, REST APIs
+
+---
+
+## 🚀 Professional Experience
+
+**Backend / Full Stack Developer**
+
+* Developed REST APIs and integrated them with frontend applications
+* Built role-based systems (Admin, Tutor, Student)
+* Worked on real-time features and API integrations
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable full-stack applications
+* Improving frontend performance & UX
+* Writing clean, maintainable backend logic
+
+---
+
+## 📫 Contact
+
+* Email: [kethavath.manjula@thephoenixedu.com](mailto:kethavath.manjula@thephoenixedu.com)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manjula-jatavath/)
+
+---
