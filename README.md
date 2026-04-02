@@ -56,6 +56,6 @@ Full Stack Developer | Django & DRF | React | Next.js
 ## 📫 Contact
 
 * Email: [kethavath.manjula@thephoenixedu.com](mailto:kethavath.manjula@thephoenixedu.com)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manjula-jatavath/)
+* LinkedIn: [Manjula Kethavath](https://www.linkedin.com/in/manjula-jatavath/)
 
 ---
