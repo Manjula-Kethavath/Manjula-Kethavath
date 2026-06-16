@@ -1,12 +1,12 @@
 # Hi, I'm Manjula 👋
 
-Full Stack Developer | Django & DRF | React | Next.js
+Junior Full Stack Developer | Django & DRF | React | Next.js
 
 ---
 
 ## 💼 About Me
 
-* Full Stack Developer with experience in building scalable web applications
+* Junior Full Stack Developer with experience in building scalable web applications
 * Strong in backend development using Django & REST APIs
 * Skilled in frontend development with React, Next.js, and Tailwind CSS
 * Experience in designing end-to-end systems with clean architecture
